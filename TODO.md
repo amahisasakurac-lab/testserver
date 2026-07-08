@@ -13,8 +13,8 @@
       - [✓] `git config --global user.email "メールアドレス"`
 - [✓] このフォルダを Git 管理下にする（`git init`）
 - [✓] `.gitignore` を作成（`.env`・認証情報・OS 生成ファイル等を除外）
-- [ ] 最初のコミットを作る（`git add .` → `git commit -m "最初のコミット"`）
-- [ ] `git log` / `git status` で状態を確認できるようになる
+- [✓] 最初のコミットを作る（`git add .` → `git commit -m "最初のコミット"`）
+- [✓] `git log` / `git status` で状態を確認できるようになる
 
 ## フェーズ2: GitHub と連携する
 - [ ] GitHub アカウントを用意する（無ければ新規作成）
