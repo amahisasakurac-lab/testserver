@@ -17,11 +17,11 @@
 - [✓] `git log` / `git status` で状態を確認できるようになる
 
 ## フェーズ2: GitHub と連携する
-- [ ] GitHub アカウントを用意する（無ければ新規作成）
-- [ ] GitHub で **Private リポジトリ**を新規作成（例: `testserver`）
-- [ ] ローカルフォルダと GitHub をつなぐ（`git remote add origin ...`）
-- [ ] 初回 push（`git push -u origin main`）で GitHub 上に反映されるか確認
-- [ ] GitHub の画面でファイルが見えることを確認
+- [✓] GitHub アカウントを用意する（無ければ新規作成）
+- [✓] GitHub で **Private リポジトリ**を新規作成（例: `testserver`）
+- [✓] ローカルフォルダと GitHub をつなぐ（`git remote add origin ...`）
+- [✓] 初回 push（`git push -u origin main`）で GitHub 上に反映されるか確認
+- [✓] GitHub の画面でファイルが見えることを確認
 
 ## フェーズ3: 日々の運用で Git を「育てる」
 - [ ] ファイルを編集 → `add` → `commit` → `push` の流れを繰り返す
