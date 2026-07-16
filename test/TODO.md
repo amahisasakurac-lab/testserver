@@ -9,8 +9,8 @@
 
 ## フェーズ1: Git を使い始める準備 ★今ここ
 - [✓] Git のユーザー情報を設定する（初回のみ・必須）
-      - [✓] `git config --global user.name "名前"`
-      - [✓] `git config --global user.email "メールアドレス"`
+- [✓] `git config --global user.name "名前"`
+- [✓] `git config --global user.email "メールアドレス"`
 - [✓] このフォルダを Git 管理下にする（`git init`）
 - [✓] `.gitignore` を作成（`.env`・認証情報・OS 生成ファイル等を除外）
 - [✓] 最初のコミットを作る（`git add .` → `git commit -m "最初のコミット"`）
